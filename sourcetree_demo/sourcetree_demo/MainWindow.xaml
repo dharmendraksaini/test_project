@@ -9,6 +9,7 @@
     <Grid Background="Black">
         <StackPanel>
             <TextBlock Text="Welcome"/>
+            <Label Content="Hello world"/>
         </StackPanel>
 
     </Grid>
